@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/go/buy",
+      "destination": "https://gethatch.com/wtbonline/merch/66864/go?uid=647789242&source=undefined&medium=undefined&content=undefined&CID=EOS+R6+Mark+III&campaign=undefined&core_id=102364623&affiliate_id=52459&prod_id=1624697980&region=AU",
+      "permanent": false
+    }
+  ]
+}
